@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="全部频道" ,福州电视台官方抖音直播间
+http://pull-flv-f11.douyincdn.com/media/stream-403773351335559852_hd.flv
 #EXTINF:-1 group-title="全部频道" ,CCTV4k
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="全部频道" ,CCTV4k
@@ -37,6 +39,8 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1 group-title="全部频道" ,美国CNN_News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="全部频道" ,韩国🇰🇷制作的朝鲜中央电视台
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-logo="https://www.wanwupai.com/upload/product/20190902-1/27dde0e627d786fbb07c8fa566705a81.png" group-title="全部频道" ,听 大陆中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="全部频道" ,CCTV1 720P
@@ -51,6 +55,8 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227243/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://www.wanwupai.com/upload/product/20190902-1/27dde0e627d786fbb07c8fa566705a81.png" group-title="全部频道" ,听 CCTV1
 http://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="全部频道" ,CCTV1 香港🇭🇰rthk33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="全部频道" ,CCTV2大码率
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="全部频道" ,CCTV2
