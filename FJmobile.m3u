@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="全部频道" ,福州电视台官方抖音直播间
-http://pull-flv-f11.douyincdn.com/media/stream-403773351335559852_hd.flv
 #EXTINF:-1 group-title="全部频道" ,CCTV4k
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 group-title="全部频道" ,CCTV4k
@@ -12,17 +10,23 @@ http://60.221.17.67/outlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 #EXTINF:-1 group-title="全部频道" ,CCTV8k
 http://103.1.169.56/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 #EXTINF:-1 group-title="全部频道" ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://img-qn.51miz.com/Element/00/79/43/44/0d02bf95_E794344_38934fc4.png!/quality/90/unsharp/true/compress/true/format/png/fw/720" group-title="全部频道" ,凤凰卫视中文台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://avd.iptviptv.site:9694/hls/731/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://www.wanwupai.com/upload/product/20190902-1/27dde0e627d786fbb07c8fa566705a81.png" group-title="全部频道" ,听 凤凰卫视中文台
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://img-qn.51miz.com/Element/00/79/43/44/0d02bf95_E794344_38934fc4.png!/quality/90/unsharp/true/compress/true/format/png/fw/720" group-title="全部频道" ,凤凰卫视资讯台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://avd.iptviptv.site:9694/hls/732/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://www.wanwupai.com/upload/product/20190902-1/27dde0e627d786fbb07c8fa566705a81.png" group-title="全部频道" ,听 凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="全部频道" ,凤凰卫视香港台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+http://avd.iptviptv.site:9694/hls/730/index.m3u8
+#EXTINF:-1 group-title="全部频道" ,香港无线新闻
+http://avd.iptviptv.site:9694/hls/906/index.m3u8
+#EXTINF:-1 group-title="全部频道" ,香港翡翠台
+http://avd.iptviptv.site:9694/hls/99/index.m3u8
+#EXTINF:-1 group-title="全部频道" ,香港明珠台
+http://avd.iptviptv.site:9694/hls/103/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="全部频道" ,香港rthk34频道
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="全部频道" ,香港rthk35频道
@@ -260,7 +264,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ningde.jpg" group-title="全部频道" ,宁德新闻综合大码率
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227196/index.m3u8
 #EXTINF:-1 group-title="全部频道" ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="全部频道" ,湖南卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="全部频道" ,湖南卫视大码率
@@ -734,13 +738,11 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225826/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="火爆卫视" ,北京卫视大码率
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://img-qn.51miz.com/Element/00/79/43/44/0d02bf95_E794344_38934fc4.png!/quality/90/unsharp/true/compress/true/format/png/fw/720" group-title="火爆卫视" ,凤凰卫视中文台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://avd.iptviptv.site:9694/hls/731/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://img-qn.51miz.com/Element/00/79/43/44/0d02bf95_E794344_38934fc4.png!/quality/90/unsharp/true/compress/true/format/png/fw/720" group-title="火爆卫视" ,凤凰卫视资讯台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://avd.iptviptv.site:9694/hls/732/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="火爆卫视" ,凤凰卫视香港台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="福建" ,福州电视台官方抖音直播间
-http://pull-flv-f11.douyincdn.com/media/stream-403773351335559852_hd.flv
+http://avd.iptviptv.site:9694/hls/730/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="福建" ,东南卫视 720P
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="福建" ,东南卫视
@@ -798,13 +800,13 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ningde.jpg" group-title="福建" ,宁德新闻综合大码率
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227196/index.m3u8
 #EXTINF:-1 group-title="卫视" ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://img-qn.51miz.com/Element/00/79/43/44/0d02bf95_E794344_38934fc4.png!/quality/90/unsharp/true/compress/true/format/png/fw/720" group-title="卫视" ,凤凰卫视中文台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://avd.iptviptv.site:9694/hls/731/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://img-qn.51miz.com/Element/00/79/43/44/0d02bf95_E794344_38934fc4.png!/quality/90/unsharp/true/compress/true/format/png/fw/720" group-title="卫视" ,凤凰卫视资讯台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://avd.iptviptv.site:9694/hls/732/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="卫视" ,凤凰卫视香港台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+http://avd.iptviptv.site:9694/hls/730/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视" ,湖南卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视" ,湖南卫视大码率
@@ -1227,18 +1229,26 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="境外" ,香港rthk35频道
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="全部频道" ,香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="境外" ,香港卫视
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://img-qn.51miz.com/Element/00/79/43/44/0d02bf95_E794344_38934fc4.png!/quality/90/unsharp/true/compress/true/format/png/fw/720" group-title="境外" ,凤凰卫视中文台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://avd.iptviptv.site:9694/hls/731/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://www.wanwupai.com/upload/product/20190902-1/27dde0e627d786fbb07c8fa566705a81.png" group-title="境外" ,听 凤凰卫视中文台
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://img-qn.51miz.com/Element/00/79/43/44/0d02bf95_E794344_38934fc4.png!/quality/90/unsharp/true/compress/true/format/png/fw/720" group-title="境外" ,凤凰卫视资讯台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://avd.iptviptv.site:9694/hls/732/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://www.wanwupai.com/upload/product/20190902-1/27dde0e627d786fbb07c8fa566705a81.png" group-title="境外" ,听 凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="境外" ,凤凰卫视香港台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+http://avd.iptviptv.site:9694/hls/730/index.m3u8
+#EXTINF:-1 group-title="境外" ,香港无线新闻
+http://avd.iptviptv.site:9694/hls/906/index.m3u8
+#EXTINF:-1 group-title="境外" ,香港翡翠台
+http://avd.iptviptv.site:9694/hls/99/index.m3u8
+#EXTINF:-1 group-title="境外" ,香港明珠台
+http://avd.iptviptv.site:9694/hls/103/index.m3u8
+#EXTINF:-1 group-title="境外" ,日本新闻24小时循环播放
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF:-1 tvg-logo="https://www.wanwupai.com/upload/product/20190902-1/27dde0e627d786fbb07c8fa566705a81.png" group-title="境外" ,听 台湾rti中央广播电台
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.wanwupai.com/upload/product/20190902-1/27dde0e627d786fbb07c8fa566705a81.png" group-title="境外" ,听 台湾中国广播音乐网
