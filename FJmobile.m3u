@@ -66,7 +66,15 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://www.wanwupai.com/upload/product/20190902-1/27dde0e627d786fbb07c8fa566705a81.png" group-title="全部频道" ,听 CCTV1综合
 http://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="全部频道" ,CCTV1综合 香港rthk33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="全部频道" ,CCTV1综合 香港rthk33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="全部频道" ,CCTV1综合 香港rthk33频道
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="全部频道" ,CCTV1综合 香港rthk33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="全部频道" ,CCTV1综合 香港rthk33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="全部频道" ,CCTV2财金 大码率
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="全部频道" ,CCTV2财金
@@ -616,7 +624,15 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227243/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="央视" ,CCTV1综合
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="央视" ,CCTV1综合 香港rthk33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="央视" ,CCTV1综合 香港rthk33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="央视" ,CCTV1综合 香港rthk33频道
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="央视" ,CCTV1综合 香港rthk33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="央视" ,CCTV1综合 香港rthk33频道
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="央视" ,CCTV2财金 大码率
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="央视" ,CCTV2财金
