@@ -138,7 +138,7 @@ http://183.251.61.207/PLTV/88888888/224/3221227246/index.m3u8
 http://183.251.61.207/PLTV/88888888/224/3221227156/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="福建" ,东南卫视*720]
 http://183.251.61.207/PLTV/88888888/224/3221225833/index.m3u8
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://i2.hdslb.com/bfs/face/7274a51cf40a6c06fd33b7604d3c3c1c4a921293.jpg" group-title="央视" ,福建海峡卫视
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://i2.hdslb.com/bfs/face/7274a51cf40a6c06fd33b7604d3c3c1c4a921293.jpg" group-title="福建" ,福建海峡卫视
 http://183.251.61.207/PLTV/88888888/224/3221227198/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建" ,厦门卫视
 http://183.251.61.207/PLTV/88888888/224/3221226781/index.m3u8
