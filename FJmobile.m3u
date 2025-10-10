@@ -466,6 +466,8 @@ https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
 http://n10.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABg6da5jAA_q9hq7zH3tEk-g
 #EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 台湾中国广播新闻网
 http://n13.rcs.revma.com/78fm9wyy2tzuv?rj-ttl=5&rj-tok=AAABg6dSfR8A_KPqtGo4-dNQFw
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 台湾古典音乐台
+http://59.120.88.155:8000/live.mp3
 #EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 法国国际电台中文部
 https://stream-143.zeno.fm/4x3gkv9zsy8uv?zs=NMobqJDyTfOqwYbHj4qE1w
 #EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 美国之音
@@ -480,6 +482,30 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210425/1619317448858.jpg" group-title="收音机" ,听 大陆中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建88.3文娱广播
+http://lhttp.qtfm.cn/live/20211656/64k.mp3
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建91.3音乐广播
+http://lhttp.qtfm.cn/live/4585/64k.mp3
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建91.3音乐广播
+http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建96.1经济广播
+http://lhttp.qtfm.cn/live/1732/64k.mp3
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建96.1经济广播
+http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建98.7私家车广播
+http://lhttp.qtfm.cn/live/1736/64k.mp3
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建98.7私家车广播
+http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建100.7交通广播
+http://lhttp.qtfm.cn/live/1733/64k.mp3
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建100.7交通广播
+http://satellitepull.cnr.cn/live/wx32fjdnjtgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建103.6新闻广播
+http://lhttp.qtfm.cn/live/1731/64k.mp3
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建103.6新闻广播
+http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建东南广播
+http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福州87.6交通之声
 http://live.zohi.tv/audio/s10001-FM876/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福州89.3音乐广播
@@ -488,18 +514,16 @@ http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 http://live.zohi.tv/audio/s10001-FM901/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福州94.4新闻广播
 http://live.zohi.tv/audio/s10001-FM944/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建88.3文娱广播
-http://lhttp.qtfm.cn/live/20211656/64k.mp3
-#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建91.3音乐广播
-http://lhttp.qtfm.cn/live/4585/64k.mp3
-#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建96.1经济广播
-http://lhttp.qtfm.cn/live/1732/64k.mp3
-#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建98.7私家车广播
-http://lhttp.qtfm.cn/live/1736/64k.mp3
-#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建100.7交通广播
-http://lhttp.qtfm.cn/live/1733/64k.mp3
-#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 福建103.6新闻广播
-http://lhttp.qtfm.cn/live/1731/64k.mp3
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 厦门综合广播
+https://live2.kxm.xmtv.cn/aac_zhgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 厦门旅游广播
+https://live2.kxm.xmtv.cn/aac_xmly/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 厦门经济交通广播
+https://live2.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 厦门闽南之声
+https://live2.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 厦门音乐广播
+http://live2.kxm.xmtv.cn/aac_xmyy/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CCTV1综合
 http://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CCTV2财金
@@ -540,6 +564,10 @@ http://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
 http://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CCTV17农业农村
 http://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CGTN
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-name="CCTV新科动漫" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CCTV新科动漫
+http://cctvalic.v.myalicdn.com/live/xinkedongman_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 湖南卫视
 http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 东方卫视
@@ -552,6 +580,171 @@ http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 东南卫视
 http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 深圳卫视
+http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 安徽卫视
+http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 山东卫视
+http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 广东卫视
+http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 四川卫视
+http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 天津卫视
+http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 重庆卫视
+http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 湖北卫视
+http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 辽宁卫视
+http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 吉林卫视
+http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 黑龙江卫视
+http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 河北卫视
+http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 河南卫视
+http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 贵州卫视
+http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 甘肃卫视
+http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 陕西卫视
+http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 延边卫视
+http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 西藏卫视
+http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 海南卫视
+http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 江西卫视
+http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 宁夏卫视
+http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 青海卫视
+http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 内蒙古卫视
+http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 新疆卫视
+http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 山西卫视
+http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 香港卫视
+https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 中国教育1
+https://wstvalic.v.myalicdn.com/wstv/cetv1_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 中国教育2
+https://wstvalic.v.myalicdn.com/wstv/cetv2_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="中国教育3" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 中国教育3
+https://wstvalic.v.myalicdn.com/wstv/cetv3_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 中国教育4
+https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 北京新闻
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 北京文艺
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="北京科教" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 北京科教
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 北京影视
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 北京财经
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 北京生活
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-name="北京青年" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 北京青年
+https://piccpndks.v.kcdnvip.com/audio/btv8_2.m3u8
+#EXTINF:-1 tvg-name="冬奥纪实" tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 北京冬奥纪实
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv6_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CRI环球资讯广播
+http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CRI华语环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CRI南海之声
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CRI世界华声
+http://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CRI轻松调频
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR中国之声
+https://live-play.cctvnews.cctv.com/cctv/zgzs192.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR文艺之声
+http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR台海之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR乡村之声
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR老年之声
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR民族之声
+http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR大湾区之声
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR神州之声
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR中国交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR维吾尔语广播
+http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR藏语广播
+http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR哈萨克语广播
+http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR音乐之声
+http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 CNR经典音乐广播
+http://liveop.cctv.cn/hls/jdyygb192/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 电音电台
+http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 古典音乐台
+http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 沐耳电台
+http://mplay.muearfm.cn/muearfm/fm666.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 动感音悦台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 潮流音悦台
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 警广之声
+http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 天籁之音-经典正流行
+http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 天籁之音 Hi-Fi Radio
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 天籁之音-国风
+http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 民谣 蓝调
+http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 舞迷心窍
+http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 心灵音乐馆
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 80后音悦台
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 经典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 卷卷猫电台
+http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 有声文摘
+http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 安全百科
+http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 民谣音乐
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 天籁古典
+http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 摇滚天空
+http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xuexi.cn/lgimg/20200617/icon1.png" group-title="收音机" ,听 国乐悠扬
+http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="境外" ,CCTV1 香港rthk33频道
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="境外" ,香港rthk34频道
